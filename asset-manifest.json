@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/buymeacoffee/static/css/main.a78c57f9.chunk.css",
+    "main.js": "/buymeacoffee/static/js/main.a654e3b7.chunk.js",
+    "main.js.map": "/buymeacoffee/static/js/main.a654e3b7.chunk.js.map",
+    "runtime-main.js": "/buymeacoffee/static/js/runtime-main.10b1af9b.js",
+    "runtime-main.js.map": "/buymeacoffee/static/js/runtime-main.10b1af9b.js.map",
+    "static/css/2.679831fc.chunk.css": "/buymeacoffee/static/css/2.679831fc.chunk.css",
+    "static/js/2.ace147eb.chunk.js": "/buymeacoffee/static/js/2.ace147eb.chunk.js",
+    "static/js/2.ace147eb.chunk.js.map": "/buymeacoffee/static/js/2.ace147eb.chunk.js.map",
+    "static/js/3.9d28ef4a.chunk.js": "/buymeacoffee/static/js/3.9d28ef4a.chunk.js",
+    "static/js/3.9d28ef4a.chunk.js.map": "/buymeacoffee/static/js/3.9d28ef4a.chunk.js.map",
+    "index.html": "/buymeacoffee/index.html",
+    "static/css/2.679831fc.chunk.css.map": "/buymeacoffee/static/css/2.679831fc.chunk.css.map",
+    "static/css/main.a78c57f9.chunk.css.map": "/buymeacoffee/static/css/main.a78c57f9.chunk.css.map",
+    "static/js/2.ace147eb.chunk.js.LICENSE.txt": "/buymeacoffee/static/js/2.ace147eb.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.10b1af9b.js",
+    "static/css/2.679831fc.chunk.css",
+    "static/js/2.ace147eb.chunk.js",
+    "static/css/main.a78c57f9.chunk.css",
+    "static/js/main.a654e3b7.chunk.js"
+  ]
+}
