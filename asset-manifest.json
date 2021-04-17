@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/buymeacoffee/static/css/main.a78c57f9.chunk.css",
-    "main.js": "/buymeacoffee/static/js/main.a654e3b7.chunk.js",
-    "main.js.map": "/buymeacoffee/static/js/main.a654e3b7.chunk.js.map",
+    "main.js": "/buymeacoffee/static/js/main.e4e830db.chunk.js",
+    "main.js.map": "/buymeacoffee/static/js/main.e4e830db.chunk.js.map",
     "runtime-main.js": "/buymeacoffee/static/js/runtime-main.10b1af9b.js",
     "runtime-main.js.map": "/buymeacoffee/static/js/runtime-main.10b1af9b.js.map",
     "static/css/2.679831fc.chunk.css": "/buymeacoffee/static/css/2.679831fc.chunk.css",
@@ -20,6 +20,6 @@
     "static/css/2.679831fc.chunk.css",
     "static/js/2.ace147eb.chunk.js",
     "static/css/main.a78c57f9.chunk.css",
-    "static/js/main.a654e3b7.chunk.js"
+    "static/js/main.e4e830db.chunk.js"
   ]
 }
